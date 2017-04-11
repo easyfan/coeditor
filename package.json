@@ -1,0 +1,28 @@
+{
+  "name": "coeditor",
+  "version": "1.0.0",
+  "description": "Coeditor services for WX app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/easyfan/coeditor.git"
+  },
+  "keywords": [
+    "WX",
+    "APP",
+    "nodejs",
+    "coeditor"
+  ],
+  "author": "zhengfan@apache.org",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easyfan/coeditor/issues"
+  },
+  "homepage": "https://github.com/easyfan/coeditor#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
