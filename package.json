@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/easyfan/coeditor#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "forever": "^0.15.3",
+    "mongoose": "^4.9.4",
+    "redis": "^2.7.1",
+    "sockjs": "^0.3.18"
   }
 }
